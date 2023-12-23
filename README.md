@@ -1,1 +1,1 @@
-razor-pay-clone-by-ayush.netlify.app
+https://razor-pay-clone-by-ayush.netlify.app/
